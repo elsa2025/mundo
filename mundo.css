@@ -1,0 +1,18 @@
+body{
+    background-image: url("imagen/gato.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1{
+    text-align: center;
+    background-color: darkgreen;
+    color: aqua;
+}
+   h2{
+   color: olive;
+   } 
+
+
